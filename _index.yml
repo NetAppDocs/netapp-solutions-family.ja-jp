@@ -1,0 +1,62 @@
+---
+product-family:
+  title: NetAppソリューション
+  lead: 運用を合理化し、クラウド管理を強化し、ストレージを最適化するように設計されたNetAppソリューションで IT インフラストラクチャを変革します。関心のある分野別にソリューションを参照するか、検索バーを使用してNetAppソリューション内の任意の場所のコンテンツを検索します。
+  summary: 運用を合理化し、クラウド管理を強化し、ストレージを最適化するように設計されたNetAppソリューションで IT インフラストラクチャを変革します。関心のある分野別にソリューションを参照するか、検索バーを使用してNetAppソリューション内の任意の場所のコンテンツを検索します。
+  sidebarlinks:
+  - title: 全て
+    tags: all
+    class: active
+  - title: Automation
+    tags: automation
+  - title: データ保護
+    tags: protection
+  - title: デブオプス
+    tags: devops
+  - title: エンタープライズアプリケーション
+    tags: entapps
+  - title: 高可用性
+    tags: ha
+  - title: ワークロード
+    tags: workloads
+  tiles:
+  - title: NetAppソリューションについて学ぶ
+    icon: "./media/icon_family_ieops-2302.png"
+    url: intro-family.html
+    summary: NetAppソリューションについて学びます。
+    tags: all
+  - title: 仮想化ソリューション
+    icon: "./media/icon_virtualization_ieops-2280.png"
+    url: netapp-solutions-virtualization/
+    summary: 仮想化環境全体にわたって俊敏性、信頼性、効率性に優れたデータ インフラストラクチャを提供するソリューション。
+    tags: all,automation,ha,workloads
+  - title: 人工知能ソリューション
+    icon: "./media/icon_artificial_intelligence_ieops-2282.png"
+    url: netapp-solutions-ai/
+    summary: パフォーマンス、生産性、データ保護を実現するソリューション。
+    tags: all,automation,workloads
+  - title: パブリッククラウドおよびハイブリッドクラウドソリューション
+    icon: "./media/icon_public_hybrid_ieops-2281.png"
+    url: netapp-solutions-cloud/
+    summary: ワークロードのモビリティを簡素化し、エンタープライズ グレードのパフォーマンスを提供し、オンプレミスとマルチクラウド環境全体でデータ管理を統合するソリューション。
+    tags: all,ha,protection,workloads
+  - title: データベースソリューション
+    icon: "./media/icon_databases_ieops-2283.png"
+    url: netapp-solutions-databases/
+    summary: 主要なエンタープライズ データベース全体でNetAppストレージの潜在能力を最大限に引き出すソリューション。
+    tags: all,entapps,ha,protection,workloads
+  - title: SAPおよびSAP HANAソリューション
+    icon: "./media/icon_sap_hana_ieops-2285.png"
+    url: netapp-solutions-sap/
+    summary: SAP および SAP HANA 環境のパフォーマンスと効率を最大化するソリューション。
+    tags: all,entapps,ha,protection,workloads
+  - title: コンテナソリューション
+    icon: "./media/icon_containers_ieops-2284.png"
+    url: netapp-solutions-containers/
+    summary: 検証済みの導入と、 NetAppストレージ管理システムおよびソフトウェアとのシームレスな統合により、Kubernetes 環境を簡素化および拡張するソリューションです。
+    tags: all,automation,devops,workloads
+  - title: データ管理ソリューション
+    icon: "./media/icon_analytics_ieops-2283.png"
+    url: netapp-solutions-dataops/
+    summary: オンプレミスおよびクラウド全体でストレージとデータ サービスを管理するためのソリューション。
+    tags: all,automation,protection,workloads
