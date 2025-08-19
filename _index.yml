@@ -27,36 +27,36 @@ product-family:
     tags: all
   - title: 仮想化ソリューション
     icon: "./media/icon_virtualization_ieops-2280.png"
-    url: netapp-solutions-virtualization/
+    url: "../netapp-solutions-virtualization/index.html"
     summary: 仮想化環境全体にわたって俊敏性、信頼性、効率性に優れたデータ インフラストラクチャを提供するソリューション。
     tags: all,automation,ha,workloads
   - title: 人工知能ソリューション
     icon: "./media/icon_artificial_intelligence_ieops-2282.png"
-    url: netapp-solutions-ai/
+    url: "../netapp-solutions-ai/index.html"
     summary: パフォーマンス、生産性、データ保護を実現するソリューション。
     tags: all,automation,workloads
   - title: パブリッククラウドおよびハイブリッドクラウドソリューション
     icon: "./media/icon_public_hybrid_ieops-2281.png"
-    url: netapp-solutions-cloud/
+    url: "../netapp-solutions-cloud/index.html"
     summary: ワークロードのモビリティを簡素化し、エンタープライズ グレードのパフォーマンスを提供し、オンプレミスとマルチクラウド環境全体でデータ管理を統合するソリューション。
     tags: all,ha,protection,workloads
   - title: データベースソリューション
     icon: "./media/icon_databases_ieops-2283.png"
-    url: netapp-solutions-databases/
+    url: "../netapp-solutions-databases/index.html"
     summary: 主要なエンタープライズ データベース全体でNetAppストレージの潜在能力を最大限に引き出すソリューション。
     tags: all,entapps,ha,protection,workloads
   - title: SAPおよびSAP HANAソリューション
     icon: "./media/icon_sap_hana_ieops-2285.png"
-    url: netapp-solutions-sap/
+    url: "../netapp-solutions-sap/index.html"
     summary: SAP および SAP HANA 環境のパフォーマンスと効率を最大化するソリューション。
     tags: all,entapps,ha,protection,workloads
   - title: コンテナソリューション
     icon: "./media/icon_containers_ieops-2284.png"
-    url: netapp-solutions-containers/
+    url: "../netapp-solutions-containers/index.html"
     summary: 検証済みの導入と、 NetAppストレージ管理システムおよびソフトウェアとのシームレスな統合により、Kubernetes 環境を簡素化および拡張するソリューションです。
     tags: all,automation,devops,workloads
   - title: データ管理ソリューション
     icon: "./media/icon_analytics_ieops-2283.png"
-    url: netapp-solutions-dataops/
+    url: "../netapp-solutions-dataops/index.html"
     summary: オンプレミスおよびクラウド全体でストレージとデータ サービスを管理するためのソリューション。
     tags: all,automation,protection,workloads
