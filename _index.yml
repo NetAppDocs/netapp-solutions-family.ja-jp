@@ -60,3 +60,8 @@ product-family:
     url: "../netapp-solutions-dataops/index.html"
     summary: オンプレミスおよびクラウド全体でストレージとデータ サービスを管理するためのソリューション。
     tags: all,automation,protection,workloads
+  - title: デモとブログ
+    icon: "./media/icon_blogs_demos-2286_v3.png"
+    url: blogs-display.html
+    summary: さまざまなNetApソリューション向けの技術デモやブログのコレクションをご覧ください。
+    tags: all,automation,protection,workloads

@@ -1,0 +1,420 @@
+---
+sidebar: sidebar 
+permalink: blogs-display.html 
+summary: NetAppソリューションを紹介するブログ集 
+keywords: netapp, solutions, blogs 
+---
+= NetApp ソリューションブログ
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+以下のブログでは、さまざまなソリューションへのNetApp ONTAPストレージの統合に関する実践的なガイダンスやベストプラクティスを紹介しています。
+
+[role="tabbed-block"]
+====
+.すべてのブログ
+--
+[cols="20%, 80%"]
+|===
+| *カテゴリ* | *ブログタイトル* 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-CacheBlend-What-is-it-and-why-it-matters/ba-p/463949["KV CacheBlend - それは何か、そしてなぜ重要なのか"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-in-Five-Minutes/ba-p/461655["ゼロからLLM推論まで5分で"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-vLLM-Edition/ba-p/461836["ゼロからLLM推論 - vLLMエディション"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/LLM-Inference-KV-Cache-Offloading-to-ONTAP-with-vLLM-and-GDS/ba-p/461914["LLM推論 - vLLMとGDSを使用したONTAPへのKVキャッシュオフロード"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-with-NVIDIA-NIM-and-Google-Cloud-NetApp-Volumes/ba-p/462253["NVIDIA NIM と Google Cloud NetApp Volumes によるゼロから LLM 推論"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Host-OpenAI-gpt-oss-on-NetApp-AIPod/ba-p/462603["NetApp AIPodでOpenAI gpt-ossをホストする"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-Cache-Offloading-When-is-it-Beneficial/ba-p/462900["KVキャッシュオフロード - どのような場合に有益ですか?"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-CPU-RAM-vs-storage/ba-p/464463["KVキャッシュオフロード - CPU RAMとストレージ"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-exploring-the-benefits-of-shared-storage/ba-p/465230["KVキャッシュオフロード - 共有ストレージの利点を探る"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-1-of-3-Hardening-Your-VMware-Private-Cloud/ba-p/463893["ONTAP Tools for VMware 10.5（パート1/3）：VMware プライベートクラウドの強化"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-2-of-3-Protecting-your-VMware-vSphere-and-VCF/ba-p/464072["ONTAP Tools for VMware 10.5（パート2/3）：VMware vSphereおよびVCFデプロイメントの保護"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-3-of-3-Supporting-Your-VMware-Private-Cloud/ba-p/464312["ONTAP Tools for VMware 10.5（パート3/3）：VMwareプライベートクラウドのサポート"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Simplifying-VM-Mobility-Windows-Admin-Center-Extension-Powered-by-NetApp-Shift/ba-p/464334["VM モビリティの簡素化：NetApp Shift Toolkit を活用した Windows Admin Center 拡張機能"] 
+
+
+| ハイブリッドクラウド | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Powering-Microsoft-Deployments-with-ONTAP-Scale-what-you-want-when-you-want/ba-p/464395["ONTAPでMicrosoft導入を強化：必要なものを、必要なときに、必要な場所で拡張"] 
+
+
+| SAP と SAP HANA | link:https://techcommunity.microsoft.com/blog/sapapplications/sap-hana-data-protection-on-azure-netapp-files-with-snapcenter/3510031/["Azure NetApp Files 上での SAP HANA データ保護と SnapCenter の活用"] 
+
+
+| SAP と SAP HANA | link:https://techcommunity.microsoft.com/blog/sapapplications/sap-system-refresh-and-cloning-operations-on-azure-netapp-files-with-snapcenter/4356389/["Azure NetApp Files での SAP システムリフレッシュおよびクローン作成操作（SnapCenter 使用）"] 
+
+
+| データプラットフォーム | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Hadoop-Tiering-to-NetApp-NFS-HOT-and-S3-COLD-with-NetApp-XCP-End-to-End-Guide/ba-p/464895/["NetApp NFS（HOT）および S3（COLD）への Hadoop 階層化と NetApp XCP — エンドツーエンドガイドと自動化"] 
+
+
+| データプラットフォーム | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modernizing-Data-Architecture-Migrating-HDFS-Hive-to-Iceberg-on-Object-Storage/ba-p/464155/["データアーキテクチャの近代化：HDFS Hiveをオブジェクトストレージ上のIcebergに移行するNetApp"] 
+
+
+| データプラットフォーム | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modern-Data-platform-Databricks-with-NetApp-ONTAP-FSxN-AWS/ba-p/461261/["最新のデータプラットフォーム - Databricks とNetApp ONTAP（FSxN-AWS）"] 
+
+
+| データプラットフォーム | link:https://www.netapp.com/blog/apache-flink-ontap-high-performance-architecture/["ONTAPを使用したハイパフォーマンスFlinkアーキテクチャの構築"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-and-VMware-Better-than-ever/ba-p/445780["NetAppとVMware – これまで以上に優れた"] 
+
+
+| AI | link:++https://www.netapp.com/blog/#t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@facet_language_mktg=["英語"]&f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[NetApp.com の AI ブログ] 
+
+
+| AI | link:https://netapp.io/category/ai-ml/["thePubのAIブログ"] 
+
+
+| 仮想化 | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-getting-started["パート1：はじめに"] 
+
+
+| 仮想化 | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-ontap-principal-storage["パート2：VCFとONTAPプリンシパルストレージ"] 
+
+
+| 仮想化 | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-element-principal-storage["パート3：VCFとElementプリンシパルストレージ"] 
+
+
+| 仮想化 | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-supplemental-storage["パート4：VMware用ONTAPツールと補助ストレージ"] 
+
+
+| 仮想化 | link:https://www.netapp.com/blog/vmware-optimize-storage-workloads/["あらゆるクラウドでストレージとデータ集約型の VMware ワークロードを最適化"] 
+
+
+| 仮想化 | link:https://www.netapp.com/blog/vmware-migrate-workloads-azure/["ストレージを大量に消費する VMware ワークロードを Azure VMware Solution に移行しますか？まずこちらをお読みください。"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Crash-Consistent-Backup-and-Restore-Operations-for-OpenShift-Virtualization-VMs/ba-p/459417["Trident 25.02を使用したOpenShift仮想化VMのクラッシュ整合性バックアップおよび復元操作"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Live-Migration-of-VMs-with-OpenShift-Virtualization-on-ROSA-and-Amazon-FSx-for/ba-p/456213["ROSA上のOpenShift VirtualizationとAmazon FSx for NetApp ONTAPを使用したVMのライブマイグレーション"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/A-Backup-and-Restore-option-for-VM-data-protection-in-OpenShift-Virtualization/ba-p/452279["OpenShift仮想化におけるVMデータ保護のためのバックアップと復元オプション"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-for-OpenShift-Virtualization-VMs-non-disruptive-volume-move-operation-is/ba-p/451941["ONTAP for OpenShift Virtualization VMs：中断のないボリューム移動操作を維持できます"] 
+
+
+| ハイブリッドクラウド | link:https://bluexp.netapp.com/blog/aws-fsxn-blg-migrate-vmware-to-amazon-ec2-iscsi-based-fsx-for-ontap["Amazon EC2 と Amazon FSx ONTAP iSCSI プロトコルを使用して VMware VM を AWS に移行する"] 
+
+
+| ハイブリッドクラウド | link:https://cloud.netapp.com/blog/azure-blg-optimize-storage-for-cloud-based-vmware-deployments["クラウドベースのVMware展開向けにストレージを最適化"] 
+
+
+| ハイブリッドクラウド | link:https://cloud.netapp.com/blog/azure-blg-netapp-cloud-offerings-with-azure-vmware-solution["NetAppベースのクラウドサービスを使用してAzure VMware Solutionを使い始める"] 
+
+
+| ハイブリッドクラウド | link:https://cloud.netapp.com/blog/aws-fsxo-blg-configure-hybrid-cloud-with-fsx-for-netapp-ontap-and-vmware-cloud-on-aws-sddc-using-vmware-hcx["VMware HCX を使用して FSx ONTAP と VMware Cloud on AWS SDDC でハイブリッドクラウドを構成する"] 
+
+
+| ハイブリッドクラウド | link:https://www.netapp.com/blog/cloud-volumes-service-google-cloud-vmware-engine/["Google Cloud VMware Engine の Google Cloud NetApp Volumes データストア サポート（NetApp）"] 
+
+
+| ハイブリッドクラウド | link:https://cloud.google.com/blog/products/compute/how-to-use-netapp-cvs-as-datastores-with-vmware-engine["Google Cloud VMware Engine のデータストアとして NetApp ボリュームを使用する方法（Google）"] 
+
+
+| ハイブリッドクラウド | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/3-2-1-Data-Protection-for-VMware-with-SnapCenter-Plug-in-and-BlueXP-Backup-and/ba-p/446180["SnapCenterプラグインとBlueXP Backup and Recovery for VMsを使用したVMware向け3-2-1データ保護"] 
+
+
+| ハイブリッドクラウド | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Observability-for-the-Modern-Datacenter-with-NetApp-Cloud-Insights/ba-p/447495["NetApp Cloud Insightsを使用した最新のデータセンター向けオブザーバビリティ"] 
+
+
+| データベース | link:https://aws.amazon.com/blogs/storage/using-netapp-snapcenter-with-amazon-fsx-for-netapp-ontap-to-protect-your-sql-server-workloads/["NetApp SnapCenterとAmazon FSx ONTAPを使用したSQL Serverワークロードの保護"] 
+
+
+| データベース | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modernize-your-Oracle-database-operation-in-hybrid-cloud-with-Amazon-FSx-storage/ba-p/437554["Amazon FSxストレージを使用してハイブリッドクラウドでOracleデータベース運用を最新化します"] 
+
+
+| データベース | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Hybrid-cloud-database-solutions-with-SnapCenter/ba-p/171061#M5["SnapCenterを使用したハイブリッドクラウドデータベース解決策"] 
+
+
+| データベース | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Automate-Your-Oracle-Database-Infrastructure-in-the-Hybrid-Cloud/ba-p/167046["ハイブリッドクラウドでOracleデータベースインフラストラクチャを自動化"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Simplifying-Trident-Installation-on-Red-Hat-OpenShift-with-the-New-Certified/ba-p/459710["新しい認定TridentオペレーターによるRed Hat OpenShiftへのTridentのインストールの簡素化"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Unlock-Seamless-iSCSI-Storage-Integration-A-Guide-to-FSxN-on-ROSA-Clusters-for/ba-p/459124["シームレスな iSCSI ストレージ統合を実現：iSCSI 向け ROSA クラスタ上の FSxN ガイド"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Amazon-FSx-for-NetApp-ONTAP-with-Red-Hat-OpenShift-Service-on-AWS-ROSA-using/ba-p/456167["Amazon FSx for NetApp ONTAP と Red Hat OpenShift Service on AWS（ROSA）のホスト型コントロールプレーンの使用"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Using-NVMe-TCP-to-consume-ONTAP-storage-for-your-modern-containerized-apps-on/ba-p/453706["NVMe/TCP を使用して、VMware 上の最新のコンテナ化されたアプリケーションで ONTAP ストレージを利用する"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-as-backend-storage-for-the-integrated-image-registry-in-OpenShift/ba-p/453142["OpenShiftコンテナプラットフォームの統合イメージレジストリのバックエンドストレージとしてのONTAP"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-ONTAP-doubles-up-as-storage-for-logs-in-Red-Hat-OpenShift-Container/ba-p/449280["NetApp ONTAPは、Red Hat OpenShift Container Platformのログ用ストレージとしても機能します"] 
+
+
+| コンテナ | link:https://netapp.io/2021/05/21/docker-rate-limit-issue/["Red Hat OpenShift への NetApp Trident のインストール － Docker「toomanyrequests」問題の解決方法！"] 
+
+
+| コンテナ | link:https://blog.netapp.com/accelerate-your-k8s-journey["VMware Tanzu と ONTAP を使用して Kubernetes の導入を加速"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Kubernetes-on-vSphere-Part-1/ba-p/445634["vSphere 上の Kubernetes（パート 1）"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Kubernetes-on-vSphere-Part-2/ba-p/445848["vSphere 上の Kubernetes（パート 2）"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-ONTAP-doubles-up-as-storage-for-logs-in-Red-Hat-OpenShift-Container/ba-p/449280["NetApp ONTAPは、Red Hat OpenShift Container Platformのログ用ストレージとしても機能します"] 
+|===
+--
+.AI
+--
+[cols="20%, 80%"]
+|===
+| *カテゴリ* | *ブログタイトル* 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-CacheBlend-What-is-it-and-why-it-matters/ba-p/463949["KV CacheBlend - それは何か、そしてなぜ重要なのか"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-in-Five-Minutes/ba-p/461655["ゼロからLLM推論まで5分で"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-vLLM-Edition/ba-p/461836["ゼロからLLM推論 - vLLMエディション"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/LLM-Inference-KV-Cache-Offloading-to-ONTAP-with-vLLM-and-GDS/ba-p/461914["LLM推論 - vLLMとGDSを使用したONTAPへのKVキャッシュオフロード"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Zero-to-LLM-Inference-with-NVIDIA-NIM-and-Google-Cloud-NetApp-Volumes/ba-p/462253["NVIDIA NIM と Google Cloud NetApp Volumes によるゼロから LLM 推論"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Host-OpenAI-gpt-oss-on-NetApp-AIPod/ba-p/462603["NetApp AIPodでOpenAI gpt-ossをホストする"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-Cache-Offloading-When-is-it-Beneficial/ba-p/462900["KVキャッシュオフロード - どのような場合に有益ですか?"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-CPU-RAM-vs-storage/ba-p/464463["KVキャッシュオフロード - CPU RAMとストレージ"] 
+
+
+| AI | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-exploring-the-benefits-of-shared-storage/ba-p/465230["KVキャッシュオフロード - 共有ストレージの利点を探る"] 
+
+
+| AI | link:++https://www.netapp.com/blog/#t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@facet_language_mktg=["英語"]&f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[NetApp.com の AI ブログ] 
+
+
+| AI | link:https://netapp.io/category/ai-ml/["thePubのAIブログ"] 
+|===
+--
+.パブリッククラウドとハイブリッドクラウド
+--
+[cols="20%, 80%"]
+|===
+| *カテゴリ* | *ブログタイトル* 
+
+
+| ハイブリッドクラウド | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Powering-Microsoft-Deployments-with-ONTAP-Scale-what-you-want-when-you-want/ba-p/464395["ONTAPでMicrosoft導入を強化：必要なものを、必要なときに、必要な場所で拡張"] 
+
+
+| ハイブリッドクラウド | link:https://bluexp.netapp.com/blog/aws-fsxn-blg-migrate-vmware-to-amazon-ec2-iscsi-based-fsx-for-ontap["Amazon EC2 と Amazon FSx ONTAP iSCSI プロトコルを使用して VMware VM を AWS に移行する"] 
+
+
+| ハイブリッドクラウド | link:https://cloud.netapp.com/blog/azure-blg-optimize-storage-for-cloud-based-vmware-deployments["クラウドベースのVMware展開向けにストレージを最適化"] 
+
+
+| ハイブリッドクラウド | link:https://cloud.netapp.com/blog/azure-blg-netapp-cloud-offerings-with-azure-vmware-solution["NetAppベースのクラウドサービスを使用してAzure VMware Solutionを使い始める"] 
+
+
+| ハイブリッドクラウド | link:https://cloud.netapp.com/blog/aws-fsxo-blg-configure-hybrid-cloud-with-fsx-for-netapp-ontap-and-vmware-cloud-on-aws-sddc-using-vmware-hcx["VMware HCX を使用して FSx ONTAP と VMware Cloud on AWS SDDC でハイブリッドクラウドを構成する"] 
+
+
+| ハイブリッドクラウド | link:https://www.netapp.com/blog/cloud-volumes-service-google-cloud-vmware-engine/["Google Cloud VMware Engine の Google Cloud NetApp Volumes データストア サポート（NetApp）"] 
+
+
+| ハイブリッドクラウド | link:https://cloud.google.com/blog/products/compute/how-to-use-netapp-cvs-as-datastores-with-vmware-engine["Google Cloud VMware Engine のデータストアとして NetApp ボリュームを使用する方法（Google）"] 
+
+
+| ハイブリッドクラウド | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/3-2-1-Data-Protection-for-VMware-with-SnapCenter-Plug-in-and-BlueXP-Backup-and/ba-p/446180["SnapCenterプラグインとBlueXP Backup and Recovery for VMsを使用したVMware向け3-2-1データ保護"] 
+
+
+| ハイブリッドクラウド | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Observability-for-the-Modern-Datacenter-with-NetApp-Cloud-Insights/ba-p/447495["NetApp Cloud Insightsを使用した最新のデータセンター向けオブザーバビリティ"] 
+|===
+--
+.仮想化
+--
+[cols="20%, 80%"]
+|===
+| *カテゴリ* | *ブログタイトル* 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-1-of-3-Hardening-Your-VMware-Private-Cloud/ba-p/463893["ONTAP Tools for VMware 10.5（パート1/3）：VMware プライベートクラウドの強化"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-2-of-3-Protecting-your-VMware-vSphere-and-VCF/ba-p/464072["ONTAP Tools for VMware 10.5（パート2/3）：VMware vSphereおよびVCFデプロイメントの保護"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-Tools-for-VMware-10-5-Part-3-of-3-Supporting-Your-VMware-Private-Cloud/ba-p/464312["ONTAP Tools for VMware 10.5（パート3/3）：VMwareプライベートクラウドのサポート"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Simplifying-VM-Mobility-Windows-Admin-Center-Extension-Powered-by-NetApp-Shift/ba-p/464334["VM モビリティの簡素化：NetApp Shift Toolkit を活用した Windows Admin Center 拡張機能"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-and-VMware-Better-than-ever/ba-p/445780["NetAppとVMware – これまで以上に優れた"] 
+
+
+| 仮想化 | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-getting-started["パート1：はじめに"] 
+
+
+| 仮想化 | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-ontap-principal-storage["パート2：VCFとONTAPプリンシパルストレージ"] 
+
+
+| 仮想化 | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-element-principal-storage["パート3：VCFとElementプリンシパルストレージ"] 
+
+
+| 仮想化 | link:https://www.netapp.com/blog/netapp-vmware-cloud-foundation-supplemental-storage["パート4：VMware用ONTAPツールと補助ストレージ"] 
+
+
+| 仮想化 | link:https://www.netapp.com/blog/vmware-optimize-storage-workloads/["あらゆるクラウドでストレージとデータ集約型の VMware ワークロードを最適化"] 
+
+
+| 仮想化 | link:https://www.netapp.com/blog/vmware-migrate-workloads-azure/["ストレージを大量に消費する VMware ワークロードを Azure VMware Solution に移行しますか？まずこちらをお読みください。"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Crash-Consistent-Backup-and-Restore-Operations-for-OpenShift-Virtualization-VMs/ba-p/459417["Trident 25.02を使用したOpenShift仮想化VMのクラッシュ整合性バックアップおよび復元操作"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Live-Migration-of-VMs-with-OpenShift-Virtualization-on-ROSA-and-Amazon-FSx-for/ba-p/456213["ROSA上のOpenShift VirtualizationとAmazon FSx for NetApp ONTAPを使用したVMのライブマイグレーション"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/A-Backup-and-Restore-option-for-VM-data-protection-in-OpenShift-Virtualization/ba-p/452279["OpenShift仮想化におけるVMデータ保護のためのバックアップと復元オプション"] 
+
+
+| 仮想化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-for-OpenShift-Virtualization-VMs-non-disruptive-volume-move-operation-is/ba-p/451941["ONTAP for OpenShift Virtualization VMs：中断のないボリューム移動操作を維持できます"] 
+|===
+--
+.コンテナ
+--
+[cols="20%, 80%"]
+|===
+| *カテゴリ* | *ブログタイトル* 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Simplifying-Trident-Installation-on-Red-Hat-OpenShift-with-the-New-Certified/ba-p/459710["新しい認定TridentオペレーターによるRed Hat OpenShiftへのTridentのインストールの簡素化"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Unlock-Seamless-iSCSI-Storage-Integration-A-Guide-to-FSxN-on-ROSA-Clusters-for/ba-p/459124["シームレスな iSCSI ストレージ統合を実現：iSCSI 向け ROSA クラスタ上の FSxN ガイド"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Amazon-FSx-for-NetApp-ONTAP-with-Red-Hat-OpenShift-Service-on-AWS-ROSA-using/ba-p/456167["Amazon FSx for NetApp ONTAP と Red Hat OpenShift Service on AWS（ROSA）のホスト型コントロールプレーンの使用"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Using-NVMe-TCP-to-consume-ONTAP-storage-for-your-modern-containerized-apps-on/ba-p/453706["NVMe/TCP を使用して、VMware 上の最新のコンテナ化されたアプリケーションで ONTAP ストレージを利用する"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/ONTAP-as-backend-storage-for-the-integrated-image-registry-in-OpenShift/ba-p/453142["OpenShiftコンテナプラットフォームの統合イメージレジストリのバックエンドストレージとしてのONTAP"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-ONTAP-doubles-up-as-storage-for-logs-in-Red-Hat-OpenShift-Container/ba-p/449280["NetApp ONTAPは、Red Hat OpenShift Container Platformのログ用ストレージとしても機能します"] 
+
+
+| コンテナ | link:https://netapp.io/2021/05/21/docker-rate-limit-issue/["Red Hat OpenShift への NetApp Trident のインストール － Docker「toomanyrequests」問題の解決方法！"] 
+
+
+| コンテナ | link:https://blog.netapp.com/accelerate-your-k8s-journey["VMware Tanzu と ONTAP を使用して Kubernetes の導入を加速"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Kubernetes-on-vSphere-Part-1/ba-p/445634["vSphere 上の Kubernetes（パート 1）"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Kubernetes-on-vSphere-Part-2/ba-p/445848["vSphere 上の Kubernetes（パート 2）"] 
+
+
+| コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-ONTAP-doubles-up-as-storage-for-logs-in-Red-Hat-OpenShift-Container/ba-p/449280["NetApp ONTAPは、Red Hat OpenShift Container Platformのログ用ストレージとしても機能します"] 
+|===
+--
+.SAPとSAP HAHA
+--
+[cols="20%, 80%"]
+|===
+| *カテゴリ* | *ブログタイトル* 
+
+
+| SAP と SAP HANA | link:https://techcommunity.microsoft.com/blog/sapapplications/sap-hana-data-protection-on-azure-netapp-files-with-snapcenter/3510031/["Azure NetApp Files 上での SAP HANA データ保護と SnapCenter の活用"] 
+
+
+| SAP と SAP HANA | link:https://techcommunity.microsoft.com/blog/sapapplications/sap-system-refresh-and-cloning-operations-on-azure-netapp-files-with-snapcenter/4356389/["Azure NetApp Files での SAP システムリフレッシュおよびクローン作成操作（SnapCenter 使用）"] 
+|===
+--
+.データベース
+--
+[cols="20%, 80%"]
+|===
+| *カテゴリ* | *ブログタイトル* 
+
+
+| データベース | link:https://aws.amazon.com/blogs/storage/using-netapp-snapcenter-with-amazon-fsx-for-netapp-ontap-to-protect-your-sql-server-workloads/["NetApp SnapCenterとAmazon FSx ONTAPを使用したSQL Serverワークロードの保護"] 
+
+
+| データベース | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modernize-your-Oracle-database-operation-in-hybrid-cloud-with-Amazon-FSx-storage/ba-p/437554["Amazon FSxストレージを使用してハイブリッドクラウドでOracleデータベース運用を最新化します"] 
+
+
+| データベース | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Hybrid-cloud-database-solutions-with-SnapCenter/ba-p/171061#M5["SnapCenterを使用したハイブリッドクラウドデータベース解決策"] 
+
+
+| データベース | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Automate-Your-Oracle-Database-Infrastructure-in-the-Hybrid-Cloud/ba-p/167046["ハイブリッドクラウドでOracleデータベースインフラストラクチャを自動化"] 
+|===
+--
+.データプラットフォーム
+--
+[cols="20%, 80%"]
+|===
+| *カテゴリ* | *ブログタイトル* 
+
+
+| データプラットフォーム | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Hadoop-Tiering-to-NetApp-NFS-HOT-and-S3-COLD-with-NetApp-XCP-End-to-End-Guide/ba-p/464895/["NetApp NFS（HOT）および S3（COLD）への Hadoop 階層化と NetApp XCP — エンドツーエンドガイドと自動化"] 
+
+
+| データプラットフォーム | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modernizing-Data-Architecture-Migrating-HDFS-Hive-to-Iceberg-on-Object-Storage/ba-p/464155/["データアーキテクチャの近代化：HDFS Hiveをオブジェクトストレージ上のIcebergに移行するNetApp"] 
+
+
+| データプラットフォーム | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Modern-Data-platform-Databricks-with-NetApp-ONTAP-FSxN-AWS/ba-p/461261/["最新のデータプラットフォーム - Databricks とNetApp ONTAP（FSxN-AWS）"] 
+
+
+| データプラットフォーム | link:https://www.netapp.com/blog/apache-flink-ontap-high-performance-architecture/["ONTAPを使用したハイパフォーマンスFlinkアーキテクチャの構築"] 
+|===
+--
+.Automation
+--
+[cols="20%, 80%"]
+|===
+| *カテゴリ* | *ブログタイトル* 
+|===
+--
+====
