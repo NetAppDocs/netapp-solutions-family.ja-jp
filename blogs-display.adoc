@@ -359,7 +359,7 @@ keywords: netapp, solutions, blogs
 | コンテナ | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-ONTAP-doubles-up-as-storage-for-logs-in-Red-Hat-OpenShift-Container/ba-p/449280["NetApp ONTAPは、Red Hat OpenShift Container Platformのログ用ストレージとしても機能します"] 
 |===
 --
-.SAPとSAP HAHA
+.SAP と SAP HANA
 --
 [cols="20%, 80%"]
 |===
