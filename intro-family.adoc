@@ -16,6 +16,7 @@ NetAppソリューションは、多様な IT 課題に対応するためにカ�
 
 
 
+[[virtualization]]
 == 仮想化
 
 主要な仮想化プラットフォームとのNetApp統合にアクセスします。管理を合理化し、リソース効率を高め、環境全体のパフォーマンスを最適化します。
@@ -24,6 +25,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-virtualization/["仮想化�
 
 
 
+[[artificial-intelligence-ai]]
 == 人工知能（AI）
 
 NetApp の AI ソリューションで機械学習とディープラーニングのワークフローを加速します。  NetAppストレージを一般的な AI フレームワークと統合し、データ パイプラインを最適化し、AI ワークロードを効率的に導入する方法を説明します。
@@ -32,6 +34,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-ai/["AIソリューション
 
 
 
+[[public-and-hybrid-cloud]]
 == パブリッククラウドとハイブリッドクラウド
 
 パブリック、プライベート、ハイブリッド クラウド インフラストラクチャ全体でNetAppソリューションをシームレスに導入および管理します。一貫した運用と俊敏なデータ移動を実現するために、主要なクラウド プロバイダーとの統合を検討してください。
@@ -40,6 +43,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-cloud/["クラウドソリ�
 
 
 
+[[databases]]
 == データベース
 
 Oracle や SQL Server などのエンタープライズ データベースのストレージとパフォーマンスを最適化します。バックアップ、リカバリ、チューニングのベスト プラクティスにアクセスして、ミッション クリティカルなワークロードの信頼性の高いサポートを確保します。
@@ -48,6 +52,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-databases/["データベー�
 
 
 
+[[sap-and-sap-hana]]
 == SAP と SAP HANA
 
 検証済みの設計、パフォーマンス最適化手法、データ保護戦略を検討して、運用を簡素化し、SAP 投資の価値を最大化します。
@@ -56,6 +61,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-sap/["SAPソリューショ�
 
 
 
+[[containers]]
 == コンテナ
 
 NetAppの永続ストレージおよびデータ管理ソリューションを使用して、コンテナ化されたアプリケーションをサポートします。スケーラビリティと回復力を強化するためのオーケストレーション プラットフォームとの統合戦略について説明します。
@@ -64,6 +70,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-containers/["コンテナソ
 
 
 
+[[data-management]]
 == データ管理
 
 高性能なデータ ソリューションを使用して、Splunk や Apache Spark などの大規模な分析プラットフォームをサポートします。  NetApp が複雑な分析環境全体でデータの整合性を維持し、パフォーマンスを最適化する方法について説明します。
