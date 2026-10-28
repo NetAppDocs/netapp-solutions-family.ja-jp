@@ -7,6 +7,9 @@
 | *カテゴリ* | *ブログタイトル* 
 
 
+| AI | link:https://community.netapp.com/community/discussion/468506/netapp-onehouse-unifying-data-from-bi-to-ai-across-datacenters-hyperscalers-and-neoclouds["NetApp OneHouse：データセンター、ハイパースケーラー、NeoClouds全体でBIからAIまでのデータを統合"] 
+
+
 | AI | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["vLLM向けKVキャッシュオフロードフレームワークの比較"] 
 
 
